@@ -17,7 +17,7 @@ Due to the results providing overwhelmingly accurate results, we will continue p
 Thanks!
 
 
-P.S. The full uncommented code is DL4H_Team_11.ipynb or https://colab.research.google.com/drive/1eEkoL5BTmgh36O-vZC7NDnce_oiDLO9n?usp=share_link
+P.S. The full uncommented code is DL4H_Team_11.ipynb or https://colab.research.google.com/drive/1eEkoL5BTmgh36O-vZC7NDnce_oiDLO9n?usp=share_link which includes progress continuing from the submitted draft with intrepretability methods execution. 
 
 
 
