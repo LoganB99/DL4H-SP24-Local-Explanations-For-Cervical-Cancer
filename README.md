@@ -31,6 +31,9 @@ The checkpoints are labeled as such in the headers to make it easier for you to 
 
 - **Full Code**: [View the Full Code Notebook](https://colab.research.google.com/drive/1eEkoL5BTmgh36O-vZC7NDnce_oiDLO9n?usp=share_link)
 
+## Results
+The study replicated findings on the Random Forest Classifier's accuracy in predicting cancer and the LIME method's effectiveness in explaining predictions. Results mostly matched the original paper, showing Random Forest's reliability and LIME's superior explanation accuracy.
+
 ## Contact
 
 For any issues with access or questions regarding the process, please contact:
