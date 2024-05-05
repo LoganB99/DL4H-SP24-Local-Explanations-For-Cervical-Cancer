@@ -10,6 +10,7 @@ The data access information is available in the "Data" section, and all dependen
 ## Usage
 
 The checkpoints are labeled as such in the headers to make it easier for you to run, but everything has been commented out that is not necessary. 
+**For pandas pip install conflicts you are able to hit cancel on warnings**
 
 ## Data
 
