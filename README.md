@@ -1,8 +1,8 @@
 # DL4H-SP24 Local Explanations For Cervical Cancer
 
 This project is a reproduction of the work done in [Local Explanations for Cervical Cancer](https://github.com/cwayad/Local-Explanations-for-Cervical-Cancer), developed as part of the UIUC Deep Learning for Healthcare Course by Team 11: Logan Borders, Ankita Singh, and Sam Kuhbander.
+Video: https://drive.google.com/file/d/1VbnpcCaYxyATlkzQZPA5bLop64rc6XSg/view?usp=sharing
 
-## Installation
 
 ### Prerequisites
 The data access information is available in the "Data" section, and all dependencies / necessary downloads are show in code.
